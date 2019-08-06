@@ -1,0 +1,8 @@
+{
+  "breakfast": 
+	[
+		{"food": "Big Breakfast","price": "$11.00", "calories":"1350"},
+		{"food": "Waffles","price": "$8.00", "calories":"1120"},
+		{"food": "Oatmeal","price": "$3.50", "calories":"280"}
+  ]
+}

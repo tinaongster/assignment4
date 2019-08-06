@@ -1,0 +1,8 @@
+{
+  "dinner": 
+	[
+		{"food": "Chicken Nuggets","price": "$6.79", "calories":"1290"},
+		{"food": "Kimchi Fried Rice","price": "$12.50", "calories":"1670"},
+		{"food": "Tex Mex Burrito","price": "$13.99", "calories":"820"}
+  ]
+}
